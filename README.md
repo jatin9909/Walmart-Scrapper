@@ -3,7 +3,7 @@ This app is used to track the Walmart products stock and prices. </br>
 
 ## Features
 
-- Data from Walamrt Website. 
+- Data from Walmart Website. 
 - Login/Signup option available. You can also add different users and view all of them under users section.
 - Changing password facility available. 
 - Add new Product by pasting the link of the product from Walmart Website.
